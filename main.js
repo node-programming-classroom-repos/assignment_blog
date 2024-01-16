@@ -1,7 +1,7 @@
 /*
 Det är ok att använda den här filen i din lösning.
 
-scriptet ska "köra" din lösningen inklusive testutskrifter av objekten.
+scriptet ska "köra" din lösning inklusive testutskrifter av objekten.
 */
 
 const User = require("./User");
