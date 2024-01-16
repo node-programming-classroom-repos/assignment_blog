@@ -6,4 +6,4 @@ Användare ska kunna skapa blogginlägg och lägga till kommentarer till dessa i
 
 För strukturen med klasser, du ska implementera och hålla dig till, så finns detta illustrerat i ett förenklat s.k "klassdiagram".
 
-Se i filen ![class diagram](https://myoctocat.com/assets/images/base-octocat.svg)
+Se i filen ![class diagram]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/node-programming-classroom-repos/assignment_blog/blob/main/classdiagram.png)https://github.com/node-programming-classroom-repos/assignment_blog/blob/main/classdiagram.png)
