@@ -1,0 +1,15 @@
++------------------+       +------------------+       +------------------+
+|      User        |       |    BlogPost      |       |     Comment      |
++------------------+       +------------------+       +------------------+
+| - username: String|       | - title: String  |       |                  |
+| - email: String   |       | - content: String|       |                  |
+| - password: String|       | - author: User   |       |                  |
+| - blogPosts: Array|       | - comments: Array|       |                  |
+| - comments: Array |       +------------------+       |                  |
++------------------+                                   |                  |
+| + createBlogPost()|                                   |                  |
+| + addComment()    |                                   |                  |
+| + displayInfo()   |                                   |                  |
++------------------+                                   |                  |
+                                                       | + displayComment()|
+                                                       +------------------+
